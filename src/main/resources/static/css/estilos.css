@@ -80,7 +80,7 @@ nav{
    color: whitesmoke;
 }
 
-.nav-menu-link: hover{
+.nav-menu-link.hover{
     backround-color: black;
 }
 
